@@ -17,4 +17,4 @@ interface.
 ## 👀 Preview
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
-[![Python Trivia Game Video](https://github.com/user-attachments/assets/c81ab3e2-0ac5-42c0-b724-7c09af4c2e4e)](https://www.youtube.com/watch?v=qek-uYyc3iI&t=3s)
+[![Python Trivia Game Video](https://github.com/user-attachments/assets/06e33f14-c7e6-4c0a-aa55-fe763d6172f3)](https://www.youtube.com/watch?v=qek-uYyc3iI&t=3s)
