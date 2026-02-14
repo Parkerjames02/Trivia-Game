@@ -3,11 +3,10 @@ This is a trivia game that I made in Python with a command line interface. It al
 ## ✨ Technologies
 - Python
 - CLI (Command Line Interface)
-- Multiple Choices
-## 🚀 Features
 - User input
+## 🚀 Features
+- Multiple choices
 - Topic selection
-- Multiple choice
 - Loops for more attempts
 ## 📌 The Reason
 I created this trivia game for my Python class final project to showcase what I had learned about Python during the length of the
