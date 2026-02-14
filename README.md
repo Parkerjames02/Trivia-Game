@@ -10,7 +10,7 @@ This is a trivia game that I made in Python with a command line interface. It al
 - Loops for more attempts
 ## 📌 The Reason
 I created this trivia game for my Python class final project to showcase what I had learned about Python during the length of the class. The main goals that I had in mind for this Python application when I was working on it was to allow user input, use variables, include multiple functions, include if/else statements as well as loops, and use a list to remember username.
-## 👀 Preview
+## 🎬 Video
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
 [![Python Trivia Game Video](https://github.com/user-attachments/assets/06e33f14-c7e6-4c0a-aa55-fe763d6172f3)](https://www.youtube.com/watch?v=qek-uYyc3iI&t=3s)
