@@ -9,11 +9,7 @@ This is a trivia game that I made in Python with a command line interface. It al
 - Topic selection
 - Loops for more attempts
 ## 📌 The Reason
-I created this trivia game for my Python class final project to showcase what I had learned about Python during the length of the
-class. The main goals that I had in mind for this Python application when I was working on it was to allow user input, allow the 
-game to be played over and over again in a loop, and provide a satisfying and eligible command line interface. This application
-succeeds at achieving all of those goals and I wouldn't mind coming back to this project to enhance it with a proper graphic user
-interface.
+I created this trivia game for my Python class final project to showcase what I had learned about Python during the length of the class. The main goals that I had in mind for this Python application when I was working on it was to allow user input, use variables, include multiple functions, include if/else statements as well as loops, and use a list to remember username.
 ## 👀 Preview
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
